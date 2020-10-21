@@ -5,7 +5,7 @@ from tests.page_model.base_page import BasePage
 from tests.page_model.main_page import MainPage
 
 # Scenarios
-scenarios('../acceptance/content.feature')
+scenarios('../features/content.feature')
 
 
 @given("I open url")

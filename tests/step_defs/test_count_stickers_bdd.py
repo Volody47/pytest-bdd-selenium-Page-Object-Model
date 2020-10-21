@@ -10,7 +10,7 @@ from tests.locators.main_page import MainPageLocators
 
 
 # Scenarios
-scenarios('../acceptance/acceptance.feature')
+scenarios('../features/features.feature')
 
 
 @given("I open url")
